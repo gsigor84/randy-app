@@ -1,16 +1,31 @@
 .main {
   padding: 6rem;
-  color: black;
+  color: white;
   font-family: "Roboto";
-  background-color: #E8E8E8;
+  background-color: #f4f4f4;
   margin: auto;
+  font-family: 'Arial', sans-serif;
+  font-size: 16px;
+  background-image: url('https://cdn.discordapp.com/attachments/989274745495240734/1181697381989888000/gsigor84_Generate_a_photorealistic_gym_background_image_that_se_8f73cb69-3682-4903-a150-e97aaaba9f12.png?ex=65820072&is=656f8b72&hm=35bdbe59b373cd82c215b4396bf0b329d8d8e66a787465377359b8c3b2a63229&');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 
 
 }
 
 .title {
-  font-size: 3rem;
-  font-family: ' Archivo';
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  font-size: 2rem;
+}
+
+.row {
+  padding: 10px;
+  backdrop-filter: blur(5px);
+  /* Adjust the blur intensity as needed */
+
+  /* Set a semi-transparent background for better readability */
 }
 
 
